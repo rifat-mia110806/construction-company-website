@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#151515"/><stop offset=".55" stop-color="#343434"/><stop offset="1" stop-color="#111"/></linearGradient><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#a9b1b6"/><stop offset="1" stop-color="#4e565b"/></linearGradient><pattern id="grid" width="70" height="70" patternUnits="userSpaceOnUse"><path d="M70 0H0V70" fill="none" stroke="#fff" stroke-opacity=".07"/></pattern></defs>
+<rect width="1600" height="1000" fill="url(#sky)"/><rect width="1600" height="1000" fill="url(#grid)"/>
+<polygon points="0,820 1600,720 1600,1000 0,1000" fill="#0c0c0c"/>
+<g fill="url(#g)" stroke="#8f969a" stroke-width="3">
+<polygon points="230,760 230,330 560,190 560,720"/><polygon points="560,720 560,190 930,300 930,680"/><polygon points="930,680 930,300 1270,180 1270,640"/><polygon points="1270,640 1270,180 1430,270 1430,610"/>
+</g>
+<g fill="#050505" stroke="#c9ced0" stroke-opacity=".35">
+<rect x="285" y="390" width="170" height="250"/><rect x="610" y="350" width="255" height="205"/><rect x="980" y="345" width="225" height="190"/><rect x="1305" y="330" width="85" height="180"/>
+</g>
+<g fill="#d5b77a" opacity=".85"><rect x="320" y="425" width="50" height="170"/><rect x="390" y="425" width="50" height="170"/><rect x="665" y="390" width="65" height="120"/><rect x="755" y="390" width="65" height="120"/><rect x="1030" y="385" width="60" height="115"/><rect x="1110" y="385" width="60" height="115"/></g>
+<path d="M120 870L1510 780" stroke="#c5a86f" stroke-width="5" opacity=".7"/><text x="90" y="120" fill="#fff" opacity=".75" font-family="Arial" font-size="24" letter-spacing="8">ARCHITECTURAL STUDY / 01</text>
+</svg>
